@@ -1,4 +1,4 @@
-Erick Zheng V#00984172
+Erick Zheng
 
 
 ChatClient.py
